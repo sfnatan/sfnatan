@@ -1,4 +1,4 @@
-<h2 align="left">Bem-vindo ao meu GitHub! Me chamo Natan e estou aprendendo a transformar ideias em códigos...<img height="60" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"></h2>
+<h2 align="left">Bem-vindo ao meu GitHub! Me chamo Natan e estou aprendendo a transformar ideias em códigos...<img  height="50" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"></h2>
 
 ###
 
@@ -49,13 +49,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/sfnatan/sfnatan/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Músicas recentes">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=M%C3%BAsicas%20recentes&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
