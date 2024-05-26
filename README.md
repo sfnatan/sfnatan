@@ -1,4 +1,4 @@
-<p align="left">Bem-vindo ao meu GitHub! Eu sou Natan e estou aprendendo a transformar ideias em códigos...</p>
+<h2 align="left">Bem-vindo ao meu GitHub! Me chamo Natan e estou aprendendo a transformar ideias em códigos...<img height="60" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif"></h2>
 
 ###
 
@@ -23,6 +23,8 @@
 </div>
 
 ###
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3xnx0xeh2k690jxrehtvravqr)
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
