@@ -66,7 +66,7 @@
 ###
 ###
 
-![Snake animation](https://github.com/sfnatan/sfnatan/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/sfnatan/sfnatan/output/snake.svg" alt="Snake animation" />
 
-###
+######
 ###
