@@ -43,7 +43,7 @@
 
 <!-- GIF -->
 <div align="left">
-  <img height="500" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105"  />
+  <img height="400" src="https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105"  />
 </div>
 
 
